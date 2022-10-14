@@ -1,1 +1,1 @@
-C:\Users\carra\source\repos\MAUIAPP\MAUIAPP.csproj;x64
+C:\Users\caguilar\Source\Repos\MeloAguilar\MAUIAPP.App\MAUIAPP.csproj;x64

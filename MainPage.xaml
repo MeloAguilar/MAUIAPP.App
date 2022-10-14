@@ -10,10 +10,11 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-            <Button x:Name="Boton1" Text="Boton1" FontAutoScalingEnabled="true" BackgroundColor="Blue" HeightRequest="70" WidthRequest="200" FontFamily="verdana" FontAttributes="Bold" FontSize="16" BorderColor="Yellow" Margin="30"/>
+            <Button x:Name="Boton1" BorderWidth = "5" Text="Boton1" FontAutoScalingEnabled="true" BackgroundColor="Blue" HeightRequest="70" WidthRequest="200" FontFamily="verdana" FontAttributes="Bold" FontSize="16" BorderColor="Yellow" Margin="30"/>
             <Button 
                 x:Name="Boton2" 
                 Text="Boton2"
+                BorderWidth = "5"
                 FontAutoScalingEnabled="true" 
                 BackgroundColor="Blue" 
                 HeightRequest="70" 

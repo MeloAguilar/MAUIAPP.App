@@ -7,33 +7,33 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MAUIAPP
-build_property.ProjectDir = C:\Users\carra\source\repos\MAUIAPP\
+build_property.ProjectDir = C:\Users\caguilar\Source\Repos\MeloAguilar\MAUIAPP.App\
 
-[C:/Users/carra/source/repos/MAUIAPP/App.xaml]
+[C:/Users/caguilar/Source/Repos/MeloAguilar/MAUIAPP.App/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIAPP.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/carra/source/repos/MAUIAPP/AppShell.xaml]
+[C:/Users/caguilar/Source/Repos/MeloAguilar/MAUIAPP.App/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIAPP.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/carra/source/repos/MAUIAPP/MainPage.xaml]
+[C:/Users/caguilar/Source/Repos/MeloAguilar/MAUIAPP.App/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIAPP.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/carra/source/repos/MAUIAPP/Resources/Styles/Colors.xaml]
+[C:/Users/caguilar/Source/Repos/MeloAguilar/MAUIAPP.App/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIAPP.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/carra/source/repos/MAUIAPP/Resources/Styles/Styles.xaml]
+[C:/Users/caguilar/Source/Repos/MeloAguilar/MAUIAPP.App/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIAPP.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
